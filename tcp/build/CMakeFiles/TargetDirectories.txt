@@ -1,0 +1,12 @@
+F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/tcp.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/edit_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/rebuild_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/tcp_autogen.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/client/CMakeFiles/client.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/client/CMakeFiles/edit_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/client/CMakeFiles/rebuild_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/client/CMakeFiles/client_autogen.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/server/CMakeFiles/server.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/server/CMakeFiles/edit_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/server/CMakeFiles/rebuild_cache.dir
+F:/Qt/Qt_Code/Web-Communication/tcp/build/server/CMakeFiles/server_autogen.dir

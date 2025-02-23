@@ -1,0 +1,1 @@
+-I"F:/Qt/Qt_Code/Web-Communication/tcp/build/server/server_autogen/include" -I"F:/Qt/Qt_Code/Web-Communication/tcp/server/.." -isystem F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include -isystem F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore -isystem "F:/Qt/Qt5.14.2/5.14.2/mingw73_64/./mkspecs/win32-g++" -isystem F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtNetwork

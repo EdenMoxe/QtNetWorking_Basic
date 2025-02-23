@@ -1,0 +1,127 @@
+{
+	"BUILD_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/tcp_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/Qt/Qt_Code/Web-Communication/tcp/CMakeLists.txt",
+		"F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/3.27.3/CMakeSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
+		"F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/3.27.3/CMakeCCompiler.cmake",
+		"F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/3.27.3/CMakeCXXCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeFindCodeBlocks.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/ProcessorCount.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU-C.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/3.27.3/CMakeRCCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-windres.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"F:/Qt/Qt_Code/Web-Communication/tcp/clientSocket.h",
+			"Mu",
+			"EWIEGA46WW/moc_clientSocket.cpp",
+			null
+		],
+		[
+			"F:/Qt/Qt_Code/Web-Communication/tcp/serverSocket.h",
+			"Mu",
+			"EWIEGA46WW/moc_serverSocket.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/tcp_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/tcp_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NETWORK_LIB", "tcp_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/Qt/Qt_Code/Web-Communication/tcp",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtCore",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/mkspecs/win32-g++",
+		"F:/Qt/Qt5.14.2/5.14.2/mingw73_64/include/QtNetwork",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"F:/Qt/Qt5.14.2/Tools/mingw730_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/tcp_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/tcp_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/Qt/Qt5.14.2/5.14.2/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "F:/Qt/Qt_Code/Web-Communication/tcp/build/CMakeFiles/tcp_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "F:/Qt/Qt_Code/Web-Communication/tcp/clientSocket.cpp", "Mu", null ],
+		[ "F:/Qt/Qt_Code/Web-Communication/tcp/serverSocket.cpp", "Mu", null ]
+	],
+	"VERBOSITY" : 0
+}
